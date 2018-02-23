@@ -1,0 +1,7 @@
+C:\Users\Chuan\Project\CA_15_ThreeSum\CA_15_ThreeSum\bin\Debug\CA_15_ThreeSum.exe.config
+C:\Users\Chuan\Project\CA_15_ThreeSum\CA_15_ThreeSum\bin\Debug\CA_15_ThreeSum.exe
+C:\Users\Chuan\Project\CA_15_ThreeSum\CA_15_ThreeSum\bin\Debug\CA_15_ThreeSum.pdb
+C:\Users\Chuan\Project\CA_15_ThreeSum\CA_15_ThreeSum\obj\Debug\CA_15_ThreeSum.csproj.CoreCompileInputs.cache
+C:\Users\Chuan\Project\CA_15_ThreeSum\CA_15_ThreeSum\obj\Debug\CA_15_ThreeSum.exe
+C:\Users\Chuan\Project\CA_15_ThreeSum\CA_15_ThreeSum\obj\Debug\CA_15_ThreeSum.pdb
+C:\Users\Chuan\Project\CA_15_ThreeSum\CA_15_ThreeSum\obj\Debug\CA_15_ThreeSum.csprojResolveAssemblyReference.cache
